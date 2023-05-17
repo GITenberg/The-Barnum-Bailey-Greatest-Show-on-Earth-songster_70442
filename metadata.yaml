@@ -1,0 +1,35 @@
+_repo: The-Barnum-Bailey-Greatest-Show-on-Earth-songster_70442
+_version: 0.0.1
+alternative_title:
+- The Barnum and Bailey Greatest Show on Earth songster
+- Clown song book
+creator:
+  author:
+    agent_name: Various
+    aliases:
+    - Verschillende
+    - Various, Various
+    gutenberg_agent_id: '116'
+    url: http://www.gutenberg.org/2009/agents/116
+description: ''
+gutenberg_issued: '2023-04-02'
+identifiers:
+  gutenberg: '70442'
+language: en
+pgterms:marc904: https://digital.library.villanova.edu/Item/vudl:721963#?c=&m=&s=&cv=&xywh=-2097%2C-151%2C6186%2C3008
+pgterms:marc905: 20220701110350various
+pgterms:marc906: '1894'
+pgterms:marc907: us
+production_note: David Edwards, Krista Zaleski and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (Images courtesy of the Digital Library@Villanova University.)
+publication_note: '  $aUnited States :$bFrank Tousey, Publisher, $c1894.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Songs, English -- United States -- Texts'
+- !lcsh 'Songsters'
+- !lcc 'M'
+- GITenberg
+title: The Barnum & Bailey Greatest Show on Earth songster
+url: http://www.gutenberg.org/ebooks/70442
