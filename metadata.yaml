@@ -3,6 +3,9 @@ _version: 0.1.0
 alternative_title:
 - The Barnum and Bailey Greatest Show on Earth songster
 - Clown song book
+covers:
+- cover_type: archival
+  image_path: 70442-h/images/backcover.jpg
 creator:
   author:
     agent_name: Various
@@ -12,6 +15,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70442#The-Barnum-Bailey-Greatest-Show-on-Earth-songster
 gutenberg_issued: '2023-04-02'
 identifiers:
   gutenberg: '70442'
